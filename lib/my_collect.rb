@@ -7,7 +7,7 @@ def my_collect(collection)
     i += 1
   end
 
-  collection
+  collect
 end
 
 
@@ -24,4 +24,4 @@ def my_collect(array)
 #   # end
 
    new_arr
- end 
+ end
